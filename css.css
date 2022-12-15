@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+    font-family: Anton;
+    font-size: 16 px;
+    font-weight: normal;
+}
+.info-text p {
+    font-style: italic;
+    font-weight: bold;
+}
